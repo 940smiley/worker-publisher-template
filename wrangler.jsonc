@@ -15,7 +15,6 @@
 		"enabled": true
 	},
 	"vars": {
-		"CLOUDFLARE_ACCOUNT_ID": "smiley81315@yahoo.com",
 		"READONLY": "false"
 	}
 }
