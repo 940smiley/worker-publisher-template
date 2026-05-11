@@ -30,6 +30,6 @@
 		"wrangler": "^4.87.0"
 	},
 	"dependencies": {
-		"cloudflare": "^4.5.0"
+		"cloudflare": "^6.1.0"
 	}
 }
